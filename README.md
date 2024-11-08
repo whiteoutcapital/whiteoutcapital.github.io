@@ -1,13 +1,15 @@
 # Whiteout Capital
 
-email: whiteoutcapital@gmail.com
+**email:** whiteoutcapital@gmail.com
 
-X/Twitter: https://twitter.com/whiteoutcapital
+**X/Twitter:** https://twitter.com/whiteoutcapital
 
-MicroCapClub: whiteout
+**MicroCapClub:** whiteout
 
-VIC: whiteout
+**VIC:** whiteout
 
-**Important **
+---
+
+**Important**
 
 Nothing I write is investment advice; please review my [full legal dislaimer](/legal-disclaimer).
