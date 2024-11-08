@@ -97,7 +97,7 @@ One of the cool aspects about sintering is that when you start from a powder and
 
 <figure>
     <img src="/assets/CalNano-3.jpg">
-    <figcaption>Without getting too deep into the details, I think in this case a picture speaks a thousand words. With sintering, you can take powdered aluminum and make it into a [transparent sheet of metal](https://www.sciencedirect.com/science/article/abs/pii/S1359646214003194). This picture is not of glass, but transparent aluminum. By controlling the particle size and grain structure, you can get some incredibly cool material properties like this. </figcaption>
+    <figcaption>Without getting too deep into the details, I think in this case a picture speaks a thousand words. With sintering, you can take powdered aluminum and make it into a <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359646214003194">transparent sheet of metal</a>. This picture is not of glass, but transparent aluminum. By controlling the particle size and grain structure, you can get some incredibly cool material properties like this. </figcaption>
 </figure>
 
 Now with that background, let’s talk about SPS. This technology has actually been around since the 1960s and it’s been used occasionally in Japan for some time in commercial settings, but for whatever reason, it never took off in the West and is rarely used in industry today. Eric thinks that this is because Japanese companies have held this technology very close. Even among Cal Nano’s customers, many treat the fact that they are using Cal Nano to explore SPS technology as a trade secret and don’t let Cal Nano name their company.
