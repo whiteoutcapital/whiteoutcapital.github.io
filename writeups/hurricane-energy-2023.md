@@ -1,5 +1,7 @@
 # Hurricane Energy plc (AIM: HUR)
 
+**Published:** May 25, 2023
+
 *This is the writeup that got me accepted into VIC*
 
 # Quick pitch
