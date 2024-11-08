@@ -15,12 +15,11 @@ body {
 }
 
 a {
-  color: rgb(173, 208, 234);
   text-decoration: underline;
 }
 
 a:hover {
-  font-weight: auto;
+  font-weight: inherit;
   color: rgb(173, 208, 234);
 }
 
