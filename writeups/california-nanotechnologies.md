@@ -32,7 +32,7 @@ After visiting Cal Nano’s headquarters, I agree with Eric’s assessment and t
 
 ### History & management
 
-Cal Nano was originally spun out of Omni-Lite Industries (TSXV.OML: $6.67MM), a contract fastener and component manufacturer serving the defense and aerospace industries. On February 1, 2007, Cal Nano was spun out via an acquisition by Veritek Technologies Inc., a capital pool company, and began trading on the TSXV.
+Cal Nano was originally spun out of [Omni-Lite Industries](https://www.omni-lite.com/) (TSXV.OML: $6.67MM), a contract fastener and component manufacturer serving the defense and aerospace industries. On February 1, 2007, Cal Nano was spun out via an acquisition by Veritek Technologies Inc., a capital pool company, and began trading on the TSXV.
 
 I asked Eric why Omni-Lite originally decided to spin off Cal Nano rather than build it in-house. He said that he wasn’t there and can only speak anecdotally, but his understanding is that at the time nanotechnology was trendy, similar to crypto or AI more recently, and they thought they could raise more money spinning it out. 
 
@@ -56,7 +56,8 @@ I personally think that’s a very impressive and promising management setup.
 
 Eric was kind enough to welcome me for an entire day in the Cal Nano office. He spent the majority of his working hours and dinner after work meeting with me. We began in the morning with a brief chat and tour of the facility. They lease part of Omni-Lite’s office and space is definitely tight, but they’ve come up with creative ways to expand without leasing more square footage.
 
-Their cryomilling machines are located in a trailer behind their office building.
+![Cryomill 1](/assets/CalNano-1.png)
+*Their cryomilling machines are located in a trailer behind their office building.*
 
 The tank in the right picture is full of liquid nitrogen. In addition to space, Eric said safety also played a factor in deciding to house the facility outside.
 
