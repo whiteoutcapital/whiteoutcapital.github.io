@@ -10,7 +10,7 @@
 
 ---
 
-**Important**
+# Important
 
 Nothing I write is investment advice; please review my [full legal dislaimer](/legal-disclaimer).
 
@@ -32,7 +32,7 @@ My professional career is in tech, where I co-own a small, profitable enterprise
 
 ---
 
-## My strategy
+# My strategy
 
 #### Low turnover, long duration
 
@@ -64,7 +64,7 @@ While I do require all of my investments to meet certain financial standards, I 
 
 ---
 
-### Notable assets (>3 year hold)
+# Notable assets (>3 year hold)
 
 Netflix (2008-2019)
 
@@ -80,7 +80,7 @@ Centrus Energy (2020-present)
 
 ---
 
-### Long-form Bio
+# Long-form Bio
 
 My name's Zack. I'm an entrepreneur and private investor.
 
