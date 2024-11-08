@@ -1,6 +1,6 @@
 # Whiteout Capital
 
-**email:** whiteoutcapital@gmail.com
+**Email:** whiteoutcapital@gmail.com
 
 **X/Twitter:** https://twitter.com/whiteoutcapital
 
@@ -34,19 +34,19 @@ My professional career is in tech, where I co-own a small, profitable enterprise
 
 ### My strategy
 
-##### Low turnover, long duration
+#### Low turnover, long duration
 
 I focus on building positions in companies I believe I can own for many years, if not indefinitely. Each year, my goal is to find one new investment and sell nothing.
 
-##### Exceptional management
+#### Exceptional management
 
 I’m believe that one of the primary drivers of long-term returns is a management team that can constantly adapt to stay a step ahead of the competition and evolve the business.
 
-##### Unique and durable
+#### Unique and durable
 
 My ideal investment is a one-of-a-kind asset that appeals to the collector in me. Unique assets, especially those run by exceptional management teams, are typically durable and able to maintain a competitive advantage over long periods.
 
-##### Profitable, high ROIC, and expanding TAM
+#### Profitable, high ROIC, and expanding TAM
 
 I search for companies that are profitable, can reinvest those profits at a high ROIC to grow the business, and are in an industry with growing TAM. 
 
@@ -54,11 +54,11 @@ I will sometimes initiate a position in an unprofitable company if I think profi
 
 I don't rely on reported ROIC and focus my energy understanding the business so that I can project a long-term ROIC, which can often differ greatly from what might show up in a screener.
 
-##### Reasonably priced, often small
+#### Reasonably priced, often small
 
 I’m not a deep-value investor, but I’m also not willing to pay unreasonably high multiples. I focus more on avoiding overpaying than searching for bargains. I spend a lot of time in microcaps, but own company's of all sizes.
 
-##### Qualitative over quantitative
+#### Qualitative over quantitative
 
 While I do require all of my investments to meet certain financial standards, I focus more on qualitative factors and put more weight on speaking with management, understanding the competitive landscape, and going on site visits when making investment decisions.
 
