@@ -242,12 +242,14 @@ One of the weakest aspects of this investment idea is that there isn’t much of
 - Karl continues to sell large volumes of stock every time the company announces good news, putting a dampener on the share price.
 - Supply chain issues impact components they need to fulfill orders.
 
-Catalysts
+# Catalysts
+
 I think that Kraken officially reporting 2023 financials will be a catalyst. If they hit their guided $14.5MM EBITDA with $5.5MM capex, they should be both FCF and earnings positive this year. How many profitable companies growing at 50%/yr and with expanding margins trade at <2x sales and <8x EBITDA?
 
 While I doubt that shares will rerate in a quick jump, I think that if Kraken continues to execute, they will both continue to grow and multiples will expand over the next 2-3 years. 
 
 Another medium-term possibility is that Kraken is acquired by a larger defense contractor. Anduril is cashed up and all of the large defense contractors are likely looking for ways to expand in this important space. Would Kraken be taken out at a full 10x EV/Sales valuation like other recent acquisitions in the space? It seems like a stretch given the current share price, but it’s possible, and even a 5x takeover would yield great returns.
 
-Disclosure
+# Disclosure
+
 I own shares of Kraken Robotics at the time of writing and may buy or sell shares at any time without notice or warning. This write-up contains my thoughts and opinions and is not investment advice. I may have made mistakes. Do your own due diligence and review my [legal disclaimer](/legal-disclaimer).
