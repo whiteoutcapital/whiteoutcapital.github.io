@@ -18,7 +18,7 @@
 
 ---
 
-### Quick pitch
+## Quick pitch
 
 California Nanotechnologies (TSXV.CNO), or Cal Nano for short, is a company based in Los Angeles, California that specializes in two advanced material manufacturing processes—spark plasma sintering (SPS) and cryomilling. The company is growing revenue at ~30%/year and just reported its second consecutive year of both GAAP earnings profitability and positive free cash flow.
 
@@ -30,7 +30,7 @@ Over the next few years, Eric plans to drive growth by transitioning Cal Nano fr
 
 After visiting Cal Nano’s headquarters, I agree with Eric’s assessment and think that we are on the brink of a more general material science revolution that will enable step-change improvements to many high-tech physical processes that modern civilization depends on. Like any small company, there are immediate challenges they face, but I think they have a good chance to overcome them. With FY 2023 revenue of just $1.4MM, I see a long (and profitable) runway for Cal Nano should the industry take off like we anticipate it could.
 
-### History & management
+## History & management
 
 Cal Nano was originally spun out of [Omni-Lite Industries](https://www.omni-lite.com/) (TSXV.OML: $6.67MM), a contract fastener and component manufacturer serving the defense and aerospace industries. On February 1, 2007, Cal Nano was spun out via an acquisition by Veritek Technologies Inc., a capital pool company, and began trading on the TSXV.
 
@@ -52,7 +52,7 @@ Eric ultimately decided to stay at Cal Nano and immediately moved up into the CO
 
 I personally think that’s a very impressive and promising management setup. 
 
-### Culture
+## Culture
 
 Eric was kind enough to welcome me for an entire day in the Cal Nano office. He spent the majority of his working hours and dinner after work meeting with me. We began in the morning with a brief chat and tour of the facility. They lease part of Omni-Lite’s office and space is definitely tight, but they’ve come up with creative ways to expand without leasing more square footage.
 
@@ -61,8 +61,11 @@ Eric was kind enough to welcome me for an entire day in the Cal Nano office. He 
     <figcaption>Their cryomilling machines are located in a trailer behind their office building.</figcaption>
 </figure>
 
+<figure>
+    <img src="/assets/CalNano-2.jpeg">
+    <figcaption>The tank in the right picture is full of liquid nitrogen. In addition to space, Eric said safety also played a factor in deciding to house the facility outside.</figcaption>
+</figure>
 
-The tank in the right picture is full of liquid nitrogen. In addition to space, Eric said safety also played a factor in deciding to house the facility outside.
 
 They announced recently that they acquired a new cryomill for a great price. I’m not sure where they’ll have room for it, but maybe they’ll park a second trailer back there. In all honesty, I love scrappy stuff like this. 
 
@@ -76,11 +79,11 @@ The one downside I noticed with the management setup is that neither Eric nor th
 
 Frankly, given how much these people have put into the company, I think a generous equity compensation should happen in the near future. If Cal Nano succeeds, they should benefit.
 
-### Products and services
+## Products and services
 
 I’m going to start with an overview of the two technologies they specialize in, then circle back around and explain how it all comes together.
 
-##### Spark plasma sintering (SPS)
+### Spark plasma sintering (SPS)
 
 Most metal components in industry are currently made using a process called hot pressing. This method involves placing a powdered metal (sometimes so fine particles are less than a nanometer across, hence the term nanomaterial) into a mold and using a combination of pressure and inductive heat to mold the particles into a solid mass without reaching the liquefaction temperature. This process of turning powdered metal, ceramics, or plastics into a solid without liquefaction is called sintering.
 
@@ -92,9 +95,10 @@ On the quality side, one of the major disadvantages of hot press sintering is th
 
 One of the cool aspects about sintering is that when you start from a powder and don’t melt the particles into liquid, you have more control over the grain structure of your final material, which allows you to optimize various properties, such as thermal conductivity, electrical conductivity, hardness, and more. 
 
-Without getting too deep into the details, I think in this case a picture speaks a thousand words. With sintering, you can take powdered aluminum and make it into a transparent sheet of metal.
-
-This picture is not of glass, but transparent aluminum. By controlling the particle size and grain structure, you can get some incredibly cool material properties like this. 
+<figure>
+    <img src="/assets/CalNano-3.jpg">
+    <figcaption>Without getting too deep into the details, I think in this case a picture speaks a thousand words. With sintering, you can take powdered aluminum and make it into a [transparent sheet of metal](https://www.sciencedirect.com/science/article/abs/pii/S1359646214003194). This picture is not of glass, but transparent aluminum. By controlling the particle size and grain structure, you can get some incredibly cool material properties like this. </figcaption>
+</figure>
 
 Now with that background, let’s talk about SPS. This technology has actually been around since the 1960s and it’s been used occasionally in Japan for some time in commercial settings, but for whatever reason, it never took off in the West and is rarely used in industry today. Eric thinks that this is because Japanese companies have held this technology very close. Even among Cal Nano’s customers, many treat the fact that they are using Cal Nano to explore SPS technology as a trade secret and don’t let Cal Nano name their company.
 
@@ -106,7 +110,7 @@ In general, Eric said that with metals they have observed the ability to increas
 
 From an economic point of view, SPS is up to 10x faster than hot press sintering and uses significantly less energy. This is a step-change improvement over hot pressing.
 
-##### Cryomilling
+### Cryomilling
 
 Sometimes customers send Cal Nano the raw material already in processed or partially processed form. Other times, they make the powder themselves. They do this with a process called cryomilling. 
 
@@ -118,7 +122,7 @@ Cal Nano also has customers who pay them just to cryomill material. One example 
 
 Furthermore, Cal Nano was also recently awarded a patent for a manufacturing process to cryomill at scale, which hasn’t been attempted before. 
 
-### The full process and sales cycle
+## The full process and sales cycle
 
 Now that I’ve explained the basic technologies Cal Nano specializes in, here is a summary of the full process from order to fulfillment.
 
@@ -128,11 +132,15 @@ Typically 3-4 weeks later, after they’ve received the raw materials, they star
 
 The first step is to cryomill the raw material if it is not fully processed. This often involves breaking it down into a specific size and shape to achieve a desired outcome later in SPS.
 
-Next, they need to create the mold (also called a dye) to house the powdered material as it is processed in the SPS machine. They have a machine that makes graphite molds, which works well because it is strong and conducts electricity, but they’ve occasionally used other materials. Most of the time, they use a cylindrical mold and machine the component later into the final shape, but they can also customize the shape of the mold if needed.
+<figure>
+    <img src="/assets/CalNano-4.jpeg">
+    <figcaption>Next, they need to create the mold (also called a dye) to house the powdered material as it is processed in the SPS machine. They have a machine that makes graphite molds, which works well because it is strong and conducts electricity, but they’ve occasionally used other materials. Most of the time, they use a cylindrical mold and machine the component later into the final shape, but they can also customize the shape of the mold if needed.</figcaption>
+</figure>
 
-The powdered material is loaded into the mold, two punches are inserted on either side (which is how pressure is applied), and the unit is loaded into the SPS machine. 
-
-They have modeling software and a decade of experience they use to create the settings for the SPS run. There are many factors that can be altered, including voltage, current, pressure, and varying each of those in space and across the time of the run. 
+<figure>
+    <img src="/assets/CalNano-5.jpeg">
+    <figcaption>The powdered material is loaded into the mold, two punches are inserted on either side (which is how pressure is applied), and the unit is loaded into the SPS machine. They have modeling software and a decade of experience they use to create the settings for the SPS run. There are many factors that can be altered, including voltage, current, pressure, and varying each of those in space and across the time of the run. </figcaption>
+</figure>
 
 Generally, it takes less than an hour to SPS a component and a couple of hours after for it to cool to the point that it can be handled without safety equipment. 
 
@@ -142,7 +150,7 @@ Sometimes there are also secondary SPS steps where they might SPS a new material
 
 It typically takes them about a week of experimentation to perfect a specific component and send it off to their customer.
 
-### Customer rap sheet
+## Customer rap sheet
 Speaking of customers, Cal Nano has an extremely impressive network of paid customers for their size. They generally sign NDAs and aren’t allowed to talk about specific projects, or sometimes even name companies, but here are a few of their previous clients they can mention:
 
 - TSMC
@@ -163,15 +171,29 @@ Much of the benefit of the components Cal Nano makes is not visible as the goal 
 
 Here are a few of the more visible examples of products they’ve completed.
 
-This first component was made for a client in the nuclear fusion industry. They needed something strong that still allowed gas to pass through. This metal wafer was made from tiny metal beads that were SPSed together, but not into a full solid. The gaps between them allow gas to pass through, but there is enough contact between the bonded beads that the component is sturdy. Achieving something like this without SPS would be challenging.
+<figure>
+    <img src="/assets/CalNano-6.jpeg">
+    <figcaption>This first component was made for a client in the nuclear fusion industry. They needed something strong that still allowed gas to pass through. This metal wafer was made from tiny metal beads that were SPSed together, but not into a full solid. The gaps between them allow gas to pass through, but there is enough contact between the bonded beads that the component is sturdy. Achieving something like this without SPS would be challenging.</figcaption>
+</figure>
 
-Eric couldn’t tell me who the customer for this second component was, only that it was a leading semiconductor company. The challenge they gave Cal Nano was to SPS a conductive metal wiring inside of a copper casing. This would not be possible using heat because the metals would melt together. 
+<figure>
+    <img src="/assets/CalNano-7.jpeg">
+    <figcaption>Eric couldn’t tell me who the customer for this second component was, only that it was a leading semiconductor company. The challenge they gave Cal Nano was to SPS a conductive metal wiring inside of a copper casing. This would not be possible using heat because the metals would melt together. </figcaption>
+</figure>
 
-This one is interesting because it demonstrates another strength of SPS. This component is a gas valve made for an oil and gas company that needed it to be strong and corrosion-resistant. The outer casing around the ball was originally two pieces. The ball was then inserted between them, and the outer pieces were SPSed together. What’s interesting about this is that SPSing multiple pieces together like this forms a bond between them that is generally stronger than the rest of the material. This is the opposite of welded components where the bond line is typically where the component will fail. Eric said they’d done extensive testing and whenever they SPS multiple components together—for example, four-cylinder pieces to form a longer cylinder—and then do a stress test, the component almost never breaks on the bond line where the components were SPSed together, it generally breaks at the midpoint between two bonds.
+<figure>
+    <img src="/assets/CalNano-8.jpeg">
+    <figcaption>This one is interesting because it demonstrates another strength of SPS. This component is a gas valve made for an oil and gas company that needed it to be strong and corrosion-resistant. The outer casing around the ball was originally two pieces. The ball was then inserted between them, and the outer pieces were SPSed together. </figcaption>
+</figure>
+
+What’s interesting about this is that SPSing multiple pieces together like this forms a bond between them that is generally stronger than the rest of the material. This is the opposite of welded components where the bond line is typically where the component will fail. Eric said they’d done extensive testing and whenever they SPS multiple components together—for example, four-cylinder pieces to form a longer cylinder—and then do a stress test, the component almost never breaks on the bond line where the components were SPSed together, it generally breaks at the midpoint between two bonds.
 
 This is important to note because a component is only as strong as its weakest point, so even if in testing the solid piece of a component made using SPS is two times stronger, the actual advantage is larger for multi-piece components because you can also then SPS them together instead of welding or other heat-based processes that introduce weak links.
 
-The last example is a cryomilling customer in the carbon capture space. This material is what will ultimately capture carbon and by achieving a finer powder, there is more surface area for carbon to bond with it.
+<figure>
+    <img src="/assets/CalNano-8.jpeg">
+    <figcaption>The last example is a cryomilling customer in the carbon capture space. This material is what will ultimately capture carbon and by achieving a finer powder, there is more surface area for carbon to bond with it.</figcaption>
+</figure>
 
 Before moving on, I want to mention one customer that I don’t have visuals for, but that Eric thinks could be a near-term catalyst for the company.
 
@@ -179,7 +201,7 @@ Cal Nano recently PRed a longer-term contract with a leading green steel company
 
 Eric sees this changing in the near future and thinks that he can position Cal Nano as a toll manufacturer. This contract with the green steel company is their first big breakthrough on this front and has the potential to be a major tailwind for Cal Nano if the steel company is successful.
 
-### Competition
+## Competition
 
 As of right now, Cal Nano has no direct competitors in North America. As outlined above, SPS in particular is a nascent technology that is only beginning to be used. Outside of national labs, who are focused on academic research, Cal Nano is the only commercial company servicing customers in North America with custom SPS and cryomilled components. 
 
@@ -199,7 +221,7 @@ For every company that wants to buy an expensive machine, hire multiple speciali
 
 I think it’s unlikely for a competing business to pop up in North America with an identical business model. If there was a funded startup that wanted to enter, they’d likely have to pick one product to manufacture, perfect it, and then start making it at scale and attempting to sell it. Even then, this type of business model doesn’t typically attract venture capital because it’s capital intensive and there is no existing market to attack, you have to create it. Without a vast network of connections and a strong reputation (like the one Cal Nano has), it’d be very difficult for a startup to land a contract with a large company pre-product.
 
-### Unit economics
+## Unit economics
 
 One of the aspects of Cal Nano’s business model that I love is that on the one hand, they are making cutting-edge components to be installed on some of the most advanced technology the human race has ever created—nuclear fusion reactors, spaceships, semi-conductors, etc.—but at the same time, even if they make 60% gross margins, the cost of the component as a percentage of the overall end product will be tiny. 
 
@@ -227,7 +249,7 @@ So while they are required to depreciate these machines fully over 7-10 years on
 
 Furthermore, since Cal Nano has exclusive sales and servicing rights to sell Fuji-SPS machines, they are the experts anyone in the US would call to fix their machine if it does fail. They’ve gotten very good at fixing the machines and costs for them to maintain would be significantly less than any competitor or potential customer bringing the technology in-house.
 
-### Challenges
+## Challenges
 
 While I think Cal Nano has a bright future, they are still a small company with material risks. 
 
@@ -253,7 +275,7 @@ On the product side, I think that corporate risk aversion is a near and medium-t
 
 Finally, while they’ve found success doing R&D work, they are on the brink of transitioning their entire business model to toll manufacturing. Anytime you change directions that much, there are risks that things won’t pan out as planned.
 
-### Conclusion
+## Conclusion
 
 Cal Nano is a growing and profitable company with promising management and the ability to invest into a defensible business at high returns on invested capital. They’ve spent the last decade building up expertise in nascent advanced material technologies and growing their network of customers and partners. While they are a microscopic company by public market standards, they are already a trusted partner to many leading startups and Fortune 500 companies that produce some of the most advanced products in existence.
 
@@ -261,12 +283,12 @@ I’ve enjoyed my conversations with Eric and am constantly impressed by how muc
 
 If Cal Nano can successfully shift to toll manufacturing and get the ball rolling, I think they have the momentum to carry them forward for a long time and that this company could have a long and profitable growth runway.
 
-### Resources
+## Resources
 
-If you want to learn more about Cal Nano’s technologies, check out the Materialism Podcast. Eric was a guest on episode 63 and they go over SPS. I’d recommend starting with episode 35 as they go into the history of SPS and give a more foundational background.
+If you want to learn more about Cal Nano’s technologies, check out the [Materialism Podcast](https://materialismpodcast.com/). Eric was a guest on episode 63 and they go over SPS. I’d recommend starting with episode 35 as they go into the history of SPS and give a more foundational background.
 
-The Sintering Wikipedia page also does a good job of explaining how the process works.
+The [Sintering Wikipedia](https://en.wikipedia.org/wiki/Sintering) page also does a good job of explaining how the process works.
 
-### Disclosure
+## Disclosure
 I own shares of Cal Nano at the time of writing and may buy or sell shares at any time without notice or warning. This write-up contains my thoughts and opinions and is not investment advice. I may have made mistakes. Do your own due diligence and review [my legal disclaimer](/legal-disclaimer).
 
