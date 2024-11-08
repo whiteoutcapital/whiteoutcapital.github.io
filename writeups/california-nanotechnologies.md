@@ -56,7 +56,7 @@ I personally think that’s a very impressive and promising management setup.
 
 Eric was kind enough to welcome me for an entire day in the Cal Nano office. He spent the majority of his working hours and dinner after work meeting with me. We began in the morning with a brief chat and tour of the facility. They lease part of Omni-Lite’s office and space is definitely tight, but they’ve come up with creative ways to expand without leasing more square footage.
 
-![Cryomill 1](/assets/CalNano-1.png)
+![Cryomill 1](/assets/CalNano-1.jpeg)
 *Their cryomilling machines are located in a trailer behind their office building.*
 
 The tank in the right picture is full of liquid nitrogen. In addition to space, Eric said safety also played a factor in deciding to house the facility outside.
