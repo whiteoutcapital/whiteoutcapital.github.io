@@ -26,6 +26,12 @@ My professional career is in tech, where I co-own a small, profitable enterprise
 
 ---
 
+### Public writeups
+
+[8/10/23 - California Nanotechnologies (TSXV.CNO)](/writeups/california-nanotechnologies)
+
+---
+
 ### My strategy
 
 ##### Low turnover, long duration
