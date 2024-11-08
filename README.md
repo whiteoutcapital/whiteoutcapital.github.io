@@ -92,7 +92,7 @@ My name's Zack. I'm an entrepreneur and private investor.
 
 During the day, I co-own a profitable, bootstrapped enterprise software company. We have two main lines of business: (1) data analytics apps for small and medium-sized businesses in a niche market and (2) long-term contract, mission-critical software for a large multi-national OEM. 
 
-I also started [Gridiron AI](gridironai.com) with a couple of friends back in 2018 as a fun side project. We've developed machine learning models that predict fantasy football scores and NFL game outcomes with elite (though imperfect) accuracy.
+I also started [Gridiron AI](https://gridironai.com) with a couple of friends back in 2018 as a fun side project. We've developed machine learning models that predict fantasy football scores and NFL game outcomes with elite (though imperfect) accuracy.
 
 I grew up next door to a hedge fund manager and was inspired from an early age to learn how to invest. He's mentored me over the years and to this day we still share investment ideas.
 
