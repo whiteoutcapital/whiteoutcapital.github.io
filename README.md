@@ -30,6 +30,8 @@ My professional career is in tech, where I co-own a small, profitable enterprise
 
 [8/10/23 - California Nanotechnologies (TSXV.CNO)](/writeups/california-nanotechnologies)
 
+[5/25/23 - Kraken Robotics (TSXV.PNG)](/writeups/kraken-robotics-2023)
+
 ---
 
 # My strategy
