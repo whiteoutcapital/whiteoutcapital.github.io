@@ -1,4 +1,4 @@
-# Whiteout Capital
+# Contact
 
 **Email:** whiteoutcapital@gmail.com
 
@@ -16,7 +16,7 @@ Nothing I write is investment advice; please review my [full legal dislaimer](/l
 
 ---
 
-### My background
+# My background
 
 My name is Zack, but I sometimes go by the pseudonym, “Whiteout.” 
 
@@ -26,13 +26,13 @@ My professional career is in tech, where I co-own a small, profitable enterprise
 
 ---
 
-### Public writeups
+# Public writeups
 
 [8/10/23 - California Nanotechnologies (TSXV.CNO)](/writeups/california-nanotechnologies)
 
 ---
 
-### My strategy
+## My strategy
 
 #### Low turnover, long duration
 
