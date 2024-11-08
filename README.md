@@ -34,7 +34,7 @@ My professional career is in tech, where I co-own a small, profitable enterprise
 
 [4/6/23 - Hurricane Energy plc (AIM.HUR)](/writeups/hurricane-energy-2023)
 
-[3/23/23 - LiveOne (LVO)](/writeups/liveone-2023)
+[3/23/23 - LiveOne (LVO)](/writeups/live-one-2023)
 
 ---
 
