@@ -20,7 +20,7 @@ Nothing I write is investment advice; please review my [full legal dislaimer](/l
 
 My name is Zack, but I sometimes go by the pseudonym, “Whiteout.” 
 
-I grew up next door to a hedge fund manager who both sparked my initial interest in investing and continues to mentor me today. I started managing my first brokerage account in 2007 when I was 14. I’m a member of Value Investors Club and MicroCapClub.
+I grew up next door to a hedge fund manager who sparked my initial interest in investing. I started managing my first brokerage account in 2007 when I was 14. I’m a member of Value Investors Club and MicroCapClub.
 
 My professional career is in tech, where I co-own a small, profitable enterprise software company.
 
