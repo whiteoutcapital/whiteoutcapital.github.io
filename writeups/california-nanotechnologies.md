@@ -61,6 +61,7 @@ Eric was kind enough to welcome me for an entire day in the Cal Nano office. He 
     <figcaption>Their cryomilling machines are located in a trailer behind their office building.</figcaption>
 </figure>
 
+
 The tank in the right picture is full of liquid nitrogen. In addition to space, Eric said safety also played a factor in deciding to house the facility outside.
 
 They announced recently that they acquired a new cryomill for a great price. I’m not sure where they’ll have room for it, but maybe they’ll park a second trailer back there. In all honesty, I love scrappy stuff like this. 
