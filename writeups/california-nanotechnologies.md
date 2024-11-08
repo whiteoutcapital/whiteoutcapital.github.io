@@ -120,7 +120,7 @@ Since the process takes place in liquid nitrogen, they can also work with materi
 
 Cal Nano also has customers who pay them just to cryomill material. One example Eric gave me is a biodegradable plastic company they work with. A recent positive development in 2023 is that the team was able to purchase a used cryomill at a good price that will triple their current milling capacity.
 
-Furthermore, Cal Nano was also recently awarded a patent for a manufacturing process to cryomill at scale, which hasn’t been attempted before. 
+Furthermore, Cal Nano was also recently [awarded a patent](https://www.globenewswire.com/en/news-release/2019/04/01/1790671/0/en/California-Nanotechnologies-Announces-Fiscal-Year-2019-Revenue-and-Outlook-for-Fiscal-Year-2020.html) for a manufacturing process to cryomill at scale, which hasn’t been attempted before. 
 
 ## The full process and sales cycle
 
