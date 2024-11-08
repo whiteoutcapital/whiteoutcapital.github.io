@@ -1,7 +1,10 @@
 # Kraken Robotics (TSXV: PNG)
 
-## Summary
+**Published:** May 25, 2023
+
 *Note that financials are stated in CAD
+
+## Summary
 
 Kraken Robotics (TSX: PNG $117.5MM CAD) is a subsea intelligence company serving defense and commercial customers. Their business can roughly be broken into four main segments/products:
 
