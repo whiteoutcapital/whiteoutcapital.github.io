@@ -1,11 +1,60 @@
 # Legal Disclaimer
 
-THE INFORMATION CONTAINED ON THIS WEBSITE IS NOT AND SHOULD NOT BE CONSTRUED AS INVESTMENT ADVICE, AND DOES NOT PURPORT TO BE AND DOES NOT EXPRESS ANY OPINION AS TO THE PRICE AT WHICH THE SECURITIES OF ANY COMPANY MAY TRADE AT ANY TIME.  THE INFORMATION AND OPINIONS PROVIDED HEREIN SHOULD NOT BE TAKEN AS SPECIFIC ADVICE ON THE MERITS OF ANY INVESTMENT DECISION.  INVESTORS SHOULD MAKE THEIR OWN DECISIONS REGARDING THE PROSPECTS OF ANY COMPANY DISCUSSED HEREIN BASED ON SUCH INVESTORS’ OWN REVIEW OF PUBLICLY AVAILABLE INFORMATION AND SHOULD NOT RELY ON THE INFORMATION CONTAINED HEREIN.
+# Investment Disclaimer
 
-The information contained on this website has been prepared based on publicly available information and proprietary research.  The author does not guarantee the accuracy or completeness of the information provided in this document.  All statements and expressions herein are the sole opinion of the author and are subject to change without notice.
+**Last Updated: June 10, 2025**
 
-Any projections, market outlooks or estimates herein are forward-looking statements and are based upon certain assumptions and should not be construed to be indicative of the actual events that will occur.  Other events that were not taken into account may occur and may significantly affect the returns or performance of the securities discussed herein.  Except where otherwise indicated, the information provided herein is based on matters as they exist as of the date of preparation and not as of any future date, and the author undertakes no obligation to correct, update or revise the information in this document or to otherwise provide any additional materials.
+Whiteout Capital is a publication of **Eudemonia 0x1 LLC**, a Wyoming limited liability company. The content provided on this website, newsletter, or any affiliated platforms (collectively, the “Service”) is for informational and educational purposes only. Nothing contained herein should be interpreted as personalized investment advice, an offer to buy or sell securities, or a recommendation for any specific investment.
 
-the author, the author’s affiliates, and clients of the author’s affiliates may currently have long or short positions in the securities of certain of the companies mentioned herein, or may have such a position in the future (and therefore may profit from fluctuations in the trading price of the securities).  to the extent such persons do have such positions, there is no guarantee that such persons will maintain such positions.
+---
 
-Neither the author nor any of its affiliates accepts any liability whatsoever for any direct or consequential loss howsoever arising, directly or indirectly, from any use of the information contained herein. In addition, nothing presented herein shall constitute an offer to sell or the solicitation of any offer to buy any security.
+## No Investment Advice
+
+The information presented is **not and should not be construed as investment advice**. It does not express an opinion as to the value or suitability of any security and is not intended to influence the investment decisions of any individual or entity.
+
+Readers should conduct their own due diligence and consult with their own financial, legal, or tax professionals before making any investment decisions.
+
+---
+
+## Research Basis and Accuracy
+
+The material provided is based on publicly available information and independent research. While we strive to ensure accuracy, **we do not guarantee the completeness, timeliness, or reliability** of any data or information presented.
+
+All statements and expressions are solely the opinion of the author and are subject to change without notice.
+
+---
+
+## Forward-Looking Statements
+
+Some content may include forward-looking statements, estimates, projections, or forecasts. These are based on assumptions and subject to risks and uncertainties. Actual results may differ materially.
+
+Whiteout Capital has no obligation to correct, update, or revise any forward-looking statements or opinions after publication.
+
+---
+
+## Conflicts of Interest and Positions
+
+The author, Eudemonia 0x1 LLC, and affiliated parties **may hold long or short positions in the securities discussed** and may buy or sell such securities at any time without notice.
+
+There is no guarantee that such positions will be maintained or disclosed in real time.
+
+---
+
+## No Offer or Solicitation
+
+Nothing on this site constitutes an offer to sell or a solicitation of an offer to buy any security, nor should anything be construed as such. Content is provided solely for informational purposes.
+
+---
+
+## Limitation of Liability
+
+Neither the author nor any affiliates of Eudemonia 0x1 LLC shall be liable for any direct, indirect, incidental, or consequential loss or damage arising from the use of, or reliance on, any content presented through the Service.
+
+Use of the Service is at your own risk.
+
+---
+
+## Contact
+
+For questions or inquiries, contact:  
+**whiteoutcapital@gmail.com**
