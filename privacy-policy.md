@@ -4,7 +4,7 @@
 
 This Privacy Policy explains how **Whiteout Capital**, a registered trade name (DBA) of **Eudemonia 0x1 LLC** (“we”, “us”, or “our”), collects, uses, and protects your personal information when you visit or interact with our website, newsletter, or services (collectively, the “Service”).
 
-By using the Service, you agree to the terms of this Privacy Policy.
+By using the Service, you agree to the terms of this Privacy Policy and our [Terms of Service](https://whiteoutcapital.com/terms-of-service).
 
 ---
 
@@ -12,9 +12,9 @@ By using the Service, you agree to the terms of this Privacy Policy.
 
 We may collect the following information:
 
-- **Name and email address** when you subscribe to our newsletter or contact us
-- **Billing and payment information** (handled securely via Stripe or Substack)
-- **Analytics data** including IP address, browser type, referral source, and behavior on the site (via Substack or third-party analytics tools)
+- **Name and email address** when you subscribe to our newsletter or contact us  
+- **Billing and payment information** (handled securely via Stripe or Substack)  
+- **Analytics data** including IP address, browser type, referral source, and behavior on the site (via Substack or third-party analytics tools)  
 - **Voluntary information** you provide through comments, surveys, or correspondence
 
 ---
