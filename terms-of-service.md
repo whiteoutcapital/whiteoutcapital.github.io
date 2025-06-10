@@ -19,6 +19,8 @@ Whiteout Capital provides general research, commentary, and personal opinions ab
 
 We are not registered as investment advisers, brokers, or financial professionals. You are solely responsible for your own investment decisions.
 
+For additional limitations, please read our [Legal Disclaimer](https://whiteoutcapital.com/legal-disclaimer).
+
 ---
 
 ## 2. No Client Relationship
@@ -58,6 +60,8 @@ Refunds, if applicable, are at our sole discretion.
 
 The Service is provided "**as is**" and without warranties of any kind.  
 We make no guarantees regarding the accuracy, completeness, or reliability of any information. Investing involves risk, including the risk of loss.
+
+See our full [Legal Disclaimer](https://whiteoutcapital.com/legal-disclaimer) for additional disclaimers and disclosures.
 
 ---
 
