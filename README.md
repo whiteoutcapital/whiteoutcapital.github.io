@@ -22,7 +22,7 @@ My name is Zack, but I sometimes go by the pseudonym, “Whiteout.”
 
 I grew up next door to a hedge fund manager who sparked my initial interest in investing. I started managing my first brokerage account in 2007 when I was 14. I’m a member of Value Investors Club and MicroCapClub.
 
-My professional career is in tech, where I co-own a small, profitable enterprise software company.
+My professional career is in tech, where I co-own a small, profitable vertical market software company.
 
 ---
 
@@ -33,8 +33,6 @@ My professional career is in tech, where I co-own a small, profitable enterprise
 [5/25/23 - Kraken Robotics (TSXV.PNG)](/writeups/kraken-robotics-2023)
 
 [4/6/23 - Hurricane Energy plc (AIM.HUR)](/writeups/hurricane-energy-2023)
-
-[3/23/23 - LiveOne (LVO)](/writeups/live-one-2023)
 
 ---
 
@@ -50,7 +48,7 @@ I’m believe that one of the primary drivers of long-term returns is a manageme
 
 #### Unique and durable
 
-My ideal investment is a one-of-a-kind asset that appeals to the collector in me. Unique assets, especially those run by exceptional management teams, are typically durable and able to maintain a competitive advantage over long periods.
+My ideal investment is a one-of-a-kind asset that appeals to the collector in me. Unique assets, especially those run by exceptional management teams, are typically durable and able to maintain or build a competitive advantage over long periods.
 
 #### Profitable, high ROIC, and expanding TAM
 
@@ -70,19 +68,29 @@ While I do require all of my investments to meet certain financial standards, I 
 
 ---
 
-# Notable assets (>3 year hold)
+# Notable assets (>2 year hold)
+
+**_Closed:_**
 
 Netflix (2008-2019)
 
 Amazon (2009-2019)
 
-Monarch Cement Company (2018-present)
+Crypto basket including ETH, HNT, MATIC, CHZ, INJ, & ATOM (2019-2025)
 
-Crypto basket including ETH, HNT, MATIC, CHZ, INJ, & ATOM (2019-present)
+Centrus Energy (2020-2025)
+
+Kraken Robotics (2023-2025)
+
+kneat.com (2024-2025)
+
+**_Open:_**
+
+Monarch Cement Company (2018-present)
 
 Constellation Software (2019-present)
 
-Centrus Energy (2020-present)
+California Nanotechnologies (2023-present)
 
 ---
 
