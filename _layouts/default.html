@@ -8,6 +8,21 @@
     <meta property="og:image" content="{{ '/assets/img/whiteout-profile-small.png' | absolute_url }}">
     <meta property="og:title" content="{{ site.title }}">
     <meta property="og:description" content="{{ site.description }}">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "{{ site.title | escape }}",
+      "url": "{{ site.url | append: site.baseurl | escape }}",
+      "logo": "{{ '/assets/img/whiteout-profile-small.png' | absolute_url }}",
+      "sameAs": [],
+      "contactPoint": [{
+        "@type": "ContactPoint",
+        "email": "{{ site.email | escape }}",
+        "contactType": "customer support"
+      }]
+    }
+    </script>
 
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
