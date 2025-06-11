@@ -8,3 +8,7 @@ author:
   email: whiteoutcapital@gmail.com
 show_downloads: false
 logo: /assets/whiteout-profile-small.png
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
