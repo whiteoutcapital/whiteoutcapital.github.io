@@ -1,6 +1,10 @@
 theme: jekyll-theme-minimal
 
 title: Whiteout Capital
-description: Private investor.
+description: Private investor publishing independent investment research focused on microcaps.
+url: "https://whiteoutcapital.com"
+author:
+  name: Zack (Whiteout)
+  email: whiteoutcapital@gmail.com
 show_downloads: false
 logo: /assets/whiteout-profile-small.png
