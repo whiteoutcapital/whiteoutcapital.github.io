@@ -2,7 +2,7 @@
 
 **Email:** whiteoutcapital@gmail.com
 
-**X/Twitter:** https://twitter.com/whiteoutcapital
+**X/Twitter:** https://x.com/whiteoutcapital
 
 **MicroCapClub:** whiteout
 
@@ -12,7 +12,7 @@
 
 # Important
 
-Nothing I write is investment advice; please review my [full legal dislaimer](/legal-disclaimer).
+Nothing I write is investment advice; please review my full [Legal Dislaimer](/legal-disclaimer).
 
 ---
 
@@ -22,17 +22,23 @@ My name is Zack, but I sometimes go by the pseudonym, “Whiteout.”
 
 I grew up next door to a hedge fund manager who sparked my initial interest in investing. I started managing my first brokerage account in 2007 when I was 14. I’m a member of Value Investors Club and MicroCapClub.
 
-My professional career is in tech, where I co-own a small, profitable vertical market software company.
+My professional career is in tech, where I'm a partner at small, profitable vertical market software company.
 
 ---
 
-# Public writeups
+# Public writeups & newsletter
+
+I run a newsletter on Substack, which you can subscribe to here to stay up-to-date with my research:
+
+[https://whiteout.substack.com/about](https://whiteout.substack.com/about)
+
+I plan to make future writeups available to subscribers only on Substack. Here are a few examples of previous writeups I posted publicly:
 
 [8/10/23 - California Nanotechnologies (TSXV.CNO)](/writeups/california-nanotechnologies)
 
 [5/25/23 - Kraken Robotics (TSXV.PNG)](/writeups/kraken-robotics-2023)
 
-[4/6/23 - Hurricane Energy plc (AIM.HUR)](/writeups/hurricane-energy-2023)
+[4/6/23 - Hurricane Energy plc (AIM.HUR)](/writeups/hurricane-energy-2023) (my succesful application for VIC)
 
 ---
 
@@ -44,7 +50,7 @@ I focus on building positions in companies I believe I can own for many years, i
 
 #### Exceptional management
 
-I’m believe that one of the primary drivers of long-term returns is a management team that can constantly adapt to stay a step ahead of the competition and evolve the business.
+I believe that one of the primary drivers of long-term returns is a management team that can constantly adapt to stay a step ahead of the competition and evolve the business.
 
 #### Unique and durable
 
@@ -54,13 +60,13 @@ My ideal investment is a one-of-a-kind asset that appeals to the collector in me
 
 I search for companies that are profitable, can reinvest those profits at a high ROIC to grow the business, and are in an industry with growing TAM. 
 
-I will sometimes initiate a position in an unprofitable company if I think profitability is near, but high ROIC and growing TAM are always a requirement. 
+I will sometimes initiate a position in an unprofitable company if I think profitability is near, but high ROIC and growing TAM are typically a requirement. 
 
-I don't rely on reported ROIC and focus my energy understanding the business so that I can project a long-term ROIC, which can often differ greatly from what might show up in a screener.
+I don't rely on reported ROIC and focus my energy on understanding the business so that I can project a longer-term ROIC, which can often differ greatly from what might show up in a screener.
 
 #### Reasonably priced, often small
 
-I’m not a deep-value investor, but I’m also not willing to pay unreasonably high multiples. I focus more on avoiding overpaying than searching for bargains. I spend a lot of time in microcaps, but own company's of all sizes.
+I’m not a deep-value investor, but I’m also not willing to pay unreasonably high multiples. I focus more on avoiding overpaying than searching for bargains, though the opportunities that get me really excited are when I've found a company I think can grow profits rapidly, trades at a reasonable multiple, pays a dividend, and is buying back stock (they are rare, but do exist). I spend a lot of time in microcaps, but own company's of all sizes.
 
 #### Qualitative over quantitative
 
@@ -98,7 +104,7 @@ California Nanotechnologies (2023-present)
 
 My name's Zack. I'm an entrepreneur and private investor.
 
-During the day, I co-own a profitable, bootstrapped enterprise software company. We have two main lines of business: (1) data analytics apps for small and medium-sized businesses in a niche market and (2) long-term contract, mission-critical software for a large multi-national OEM. 
+During the day, I'm a partner at a profitable, bootstrapped vertical market software company. We have two main lines of business: (1) data analytics apps for small and medium-sized businesses in a niche market and (2) long-term contract, mission-critical software for a large multi-national OEM. 
 
 I also started [Gridiron AI](https://gridironai.com) with a couple of friends back in 2018 as a fun side project. We've developed machine learning models that predict fantasy football scores and NFL game outcomes with elite (though imperfect) accuracy.
 
