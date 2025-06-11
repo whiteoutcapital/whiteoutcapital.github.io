@@ -2,7 +2,9 @@
 
 **Email:** whiteoutcapital@gmail.com
 
-**X/Twitter:** https://x.com/whiteoutcapital
+**Substack:** [https://whiteout.substack.com/](https://whiteout.substack.com/)
+
+**X/Twitter:** [https://x.com/whiteoutcapital](https://x.com/whiteoutcapital)
 
 **MicroCapClub:** whiteout
 
