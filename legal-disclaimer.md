@@ -1,7 +1,5 @@
 # Legal Disclaimer
 
-# Investment Disclaimer
-
 **Last Updated: June 10, 2025**
 
 Whiteout Capital is a publication of **Eudemonia 0x1 LLC**, a Wyoming limited liability company. The content provided on this website, newsletter, or any affiliated platforms (collectively, the “Service”) is for informational and educational purposes only. Nothing contained herein should be interpreted as personalized investment advice, an offer to buy or sell securities, or a recommendation for any specific investment.
