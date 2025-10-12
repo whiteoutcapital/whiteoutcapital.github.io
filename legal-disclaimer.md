@@ -1,5 +1,7 @@
 # Legal Disclaimer
 
+_This disclaimer applies to all past and future content published by Whiteout Capital, including posts that may contain older summary disclaimers linking to this page._
+
 **Last Updated: October 12, 2025**
 
 Whiteout Capital is a publication of **Eudemonia 0x1 LLC**, a Wyoming limited liability company.  
