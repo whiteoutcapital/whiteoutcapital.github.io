@@ -1,6 +1,6 @@
 # Legal Disclaimer
 
-**Last Updated:** October 21, 2025
+**Last Updated:** November 3, 2025
 
 This disclaimer applies to all past and future content published by Whiteout Capital, including posts that may contain older summary disclaimers linking to this page.
 
@@ -51,6 +51,14 @@ Subscription payments made to Whiteout Capital are solely in exchange for access
 ## No Legal, Tax, or Accounting Advice
 
 Nothing in the Service constitutes legal, tax, or accounting advice. You should consult your own qualified professionals before making any financial or legal decisions that may have tax, legal, or regulatory implications.
+
+## Affiliate Links and Disclosures
+
+Some posts may include affiliate links to third-party products or services (for example, research tools or data providers) that the author personally uses. If you purchase through these links, Whiteout Capital may receive a commission at no additional cost to you. Any such relationships will be disclosed clearly and proximate to the relevant link or mention.
+
+## Screenshots, Logos, and Trademarks
+
+Screenshots or references to third-party platforms and tools (e.g., Koyfin) may appear within the Service. Such materials are used under the applicable platform’s media or affiliate policies, where permitted. All trademarks, service marks, and logos are the property of their respective owners, and their appearance does not imply endorsement.
 
 ## Limitation of Liability
 
