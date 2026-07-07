@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,700;1,700&display=swap');
+
+body {
+  background-color: rgb(244, 243, 234);
+  padding: 50px;
+  font: 18px/1.5 "EB Garamond", 'Times New Roman', Times, serif;
+  color: #000;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: underline;
+}
+
+a:hover {
+  font-weight: inherit;
+  color: rgb(173, 208, 234);
+}
+

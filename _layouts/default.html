@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="{{ '/assets/whiteout-favicon.png' | absolute_url }}" type="image/png">
+    <meta property="og:image" content="{{ '/assets/whiteout-profile-small.png' | absolute_url }}">
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "{{ site.title | escape }}",
+      "url": "{{ site.url | append: site.baseurl | escape }}",
+      "logo": "{{ '/assets/whiteout-profile-small.png' | absolute_url }}",
+      "sameAs": [],
+      "contactPoint": [{
+        "@type": "ContactPoint",
+        "email": "{{ site.email | escape }}",
+        "contactType": "customer support"
+      }]
+    }
+    </script>
+
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}" style="font-size: 36px;color: #000">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.show_downloads %}
+        <ul class="downloads">
+          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
+          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
+        </ul>
+        {% endif %}
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p>© {{ 'now' | date: '%Y' }} Whiteout Capital, a registered trade name of Eudemonia 0x1 LLC.</p>
+      
+        <p>This site is for informational purposes only and does not provide investment advice.</p>
+      
+        <p>
+          <a href="/legal-disclaimer">Legal Disclaimer</a> |
+          <a href="/terms-of-service">Terms of Service</a> |
+          <a href="/privacy-policy">Privacy Policy</a>
+        </p>
+      
+        <p>Contact: <a href="mailto:whiteoutcapital@gmail.com">whiteoutcapital@gmail.com</a> — Based in Colorado, USA.</p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
